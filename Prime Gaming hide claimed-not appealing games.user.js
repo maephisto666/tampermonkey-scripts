@@ -6,6 +6,7 @@
 // @author       Maephisto
 // @license      MIT
 // @updateURL   https://github.com/maephisto666/tampermonkey-scripts/raw/main/Prime%20Gaming%20hide%20claimed-not%20appealing%20games.user.js
+// @downloadURL https://github.com/maephisto666/tampermonkey-scripts/raw/main/Prime%20Gaming%20hide%20claimed-not%20appealing%20games.user.js
 // @match        *://gaming.amazon.com/
 // @match        *://gaming.amazon.com/home*
 // @match        *://gaming.amazon.com/?ingress*

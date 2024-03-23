@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Prime Gaming hide claimed/not appealing games
 // @namespace    https://github.com/maephisto666
-// @version      1.1
+// @version      1.2
 // @description  Hide claimed/not appealing games on gaming.amazon.com
 // @author       Maephisto
 // @license      MIT
@@ -86,7 +86,6 @@
         "World of Tanks",
         "World of Warships",
         "World of Warships: Legends",
-        "banana"
     ]
 
     const observer = new MutationObserver(mutations => {
